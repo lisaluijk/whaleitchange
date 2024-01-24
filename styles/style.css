@@ -92,4 +92,35 @@ h2 {
   width: calc(100% - 3em);
 }
 
+.slag-fles {
+  background-image: url(../images/shampoo-fles.png);
   
+}
+  
+.op-pad {
+  background-color: #78CED8;
+  margin:  1.5rem;
+  border-radius: 17.5vw;
+}
+
+.op-pad img {
+  width: 35vw;
+  height: auto;
+}
+
+.op-pad h2 {
+  font-size: 1.8rem;
+}
+
+.op-pad p, ul{
+  padding: 2rem 1.5rem;
+}
+
+.pad-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+
