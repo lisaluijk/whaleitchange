@@ -9,6 +9,24 @@ img {
   height: auto;
 }
 
+.linkje  {
+  font-family: 'my coffee break';
+  letter-spacing: 0.1rem;
+  background-color: #0e5673;
+  color: white;
+  margin: -0.5rem 1.5rem 1rem;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 3rem;
+}
+
+a {
+  color: #0e5673;
+}
+
+
 .titel-header {
   background-color: #032940;
   display: flex;
@@ -92,11 +110,134 @@ h2 {
   width: calc(100% - 3em);
 }
 
-.slag-fles {
-  background-image: url(../images/shampoo-fles.png);
+.bgd-cijfers {
+  background-image: url(../images/cijfers-background.png);
+  background-size: cover;
+ 
+}
+
+.cijfer {
+  font-family: "brush script mt"; 
+  font-size: 2rem;
+  font-weight: 1000;
+  color: #F2CD11;
+  margin: 0rem 1.5rem -1rem 50vw;
+}
+
+.cijfer-1 {
+  font-family: "brush script mt"; 
+  font-size: 2rem;
+  font-weight: 1000;
+  color: #F2CD11;
+  margin: 0rem 1.5rem -1rem 50vw;
+  padding: 2.3rem 0rem 0rem;
+}
+
+.eenheid {
+  font-family: 'my coffee break';
+  color: #F2CD11;
+  font-size: 2rem;
+  margin: 0.5rem 1.5rem 0rem 50vw;
+}
+
+.uitleg {
+  margin: 0rem 1.5rem 1.5rem 50vw;
+  color: white;
+}
+
+.uitleg-1 {
+  margin: -0.4rem 1.5rem 0rem 50vw;
+  color: white;
+}
+
+.uitleg-2 {
+  margin: 0rem 1.5rem 0rem 50vw;
+  padding: 0rem 0rem 3.5rem;
+  color: white;
+}
+
+.recyclen {
+  display: flex;
+}
+
+.recyclen img {
+  width: 50vw;
+}
+
+.cijfer-2 {
+  font-family: "brush script mt"; 
+  font-size: 2rem;
+  font-weight: 1000;
+  color: #F2CD11;
+  margin: 0rem 1.5rem -1rem;
+}
+
+.eenheid-2 {
+  font-family: 'my coffee break';
+  color: #F2CD11;
+  font-size: 2rem;
+  margin: 0.5rem 1.5rem 0rem;
+}
+
+.tekst-3 {
+  margin: -0.4rem 1.5rem 1.5rem;
+  color: #032940;
+}
+
+.tekst-3 span {
+  font-family: "brush script mt"; 
+  font-size: 1rem;
+  font-weight: 1000;
+  color: #F2CD11;
   
 }
+
+.tekst-4 {
+  margin: 3rem 1.5rem 1.5rem;
+  color: #032940;
+}
+
+.slag-fles {
+  background-image: url(../images/plastic-fles.png);
+  background-size: contain;
+  margin: 1rem 1.5rem;
+  padding: 2.7rem 0.5rem 2.7rem 3.5rem; 
+  font-size: 2rem;
+}
+
+
+
+.slag-shampoo {
+  background-image: url(../images/shampoo-fles.png);
+  background-size: contain;
+  margin: 1rem 1.5rem;
+  padding: 2.9rem 3.5rem 2.9rem 0.5rem; 
+  font-size: 2rem;
+}
+
+
+.slag-tas {
+  background-image: url(../images/plastic-tas.png);
+  background-size: contain;
+  margin: 1rem 1.5rem;
+  padding: 3.9rem 2.5rem 3.9rem 1.5rem; 
+  font-size: 2rem;
+}
   
+.slag-ander {
+  background-image: url(../images/vuilnis-zak.png);
+  background-size: contain;
+  margin: 1rem 1.5rem;
+  padding: 3.9rem 1rem 3.9rem 3rem; 
+  font-size: 2rem;
+}
+
+.slag-tekst {
+  margin: 1.5rem;
+}
+
+
+
 .op-pad {
   background-color: #78CED8;
   margin:  1.5rem;
@@ -113,7 +254,7 @@ h2 {
 }
 
 .op-pad p, ul{
-  padding: 2rem 1.5rem;
+  padding: 1rem 1.5rem;
 }
 
 .pad-links {
