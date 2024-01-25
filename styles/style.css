@@ -10,7 +10,7 @@ img {
 }
 
 .linkje  {
-  font-family: 'my coffee break';
+  font-family: 'my coffee break', Arial, Helvetica, sans-serif;
   letter-spacing: 0.1rem;
   background-color: #0e5673;
   color: white;
@@ -131,7 +131,7 @@ footer {
 }
 
 .cijfer {
-  font-family: "brush script mt"; 
+  font-family: "brush script mt", Arial, Helvetica, sans-serif; 
   font-size: 2rem;
   font-weight: 1000;
   color: #F2CD11;
@@ -139,7 +139,7 @@ footer {
 }
 
 .cijfer-1 {
-  font-family: "brush script mt"; 
+  font-family: "brush script mt", Arial, Helvetica, sans-serif; 
   font-size: 2rem;
   font-weight: 1000;
   color: #F2CD11;
@@ -148,7 +148,7 @@ footer {
 }
 
 .eenheid {
-  font-family: 'my coffee break';
+  font-family: 'my coffee break', Arial, Helvetica, sans-serif;
   color: #F2CD11;
   font-size: 2rem;
   margin: 0.5rem 1.5rem 0rem 50vw;
@@ -179,7 +179,7 @@ footer {
 }
 
 .cijfer-2 {
-  font-family: "brush script mt"; 
+  font-family: "brush script mt", Arial, Helvetica, sans-serif; 
   font-size: 2rem;
   font-weight: 1000;
   color: #F2CD11;
@@ -187,7 +187,7 @@ footer {
 }
 
 .eenheid-2 {
-  font-family: 'my coffee break';
+  font-family: 'my coffee break', Arial, Helvetica, sans-serif;
   color: #F2CD11;
   font-size: 2rem;
   margin: 0.5rem 1.5rem 0rem;
@@ -199,7 +199,7 @@ footer {
 }
 
 .tekst-3 span {
-  font-family: "brush script mt"; 
+  font-family: "brush script mt", Arial, Helvetica, sans-serif; 
   font-size: 1rem;
   font-weight: 1000;
   color: #F2CD11;
